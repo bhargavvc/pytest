@@ -16,12 +16,7 @@ pytest /home/bhargav-wl/GitHub/pytest/test_file.py -v
 A repository for learning pytest by building a Django web application.
 
 The application lists companies and indicates wether they are laying off/ hiring freeze or hiring.
-
-
-
-![Logo](static/my-pytest-course-logo.png)
-
-
+ 
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
@@ -36,7 +31,7 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-  git clone https://bitbucket.org/e-marco/my-pytest-course/src/master/
+  git clone https://github.com/bhargavvc/pytest.git
 ```
 
 Go to the project directory
@@ -65,9 +60,3 @@ To run tests, run the following command
 ```bash
   pipenv run pytest .
 ```
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.udemy.com/user/eden-marco/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eden-marco/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EdenEmarco177)
